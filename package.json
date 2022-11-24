@@ -1,0 +1,12 @@
+{
+  "name": "accountsbank",
+  "version": "1.0.0",
+  "description": "Management of Current Accounts of Bank",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Brian Gomez",
+  "license": "ISC",
+  "type":"module"
+}
